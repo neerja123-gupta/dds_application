@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/neerja/catkin_ws/src/dds_application/dds_application/build/devel/setup.sh

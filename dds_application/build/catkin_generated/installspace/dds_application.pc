@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: dds_application
+Description: Description of dds_application
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ldds_application
+Requires: geometry_msgs message_runtime roscpp rospy std_msgs
